@@ -34,7 +34,7 @@ module Internals
     866 => "IBM866", #(Cyrillic (Russian))
     869 => "IBM869", #(Greek (Modern))
     874 => "WINDOWS-874", #(Thai)
-    932 => "WINDOWS-932", #(Japanese Shift-JIS)
+    932 => "CP932", #(Japanese Shift-JIS)
     936 => "WINDOWS-936", #(Chinese Simplified GBK)
     949 => "WINDOWS-949", #(Korean (Wansung))
     950 => "WINDOWS-950", #(Chinese Traditional BIG5)
